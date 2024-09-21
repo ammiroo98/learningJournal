@@ -71,7 +71,7 @@ Personal development activities:
 I recently listened to a podcast by Andrew Huberman, where he discussed effective strategies for learning, particularly how to counteract forgetting. He emphasized that the best approach is to actively engage with the material by generating questions and attempting to answer them. Inspired by this, I have started formulating questions based on the course content. This way, when I review the material, I can focus on answering the questions rather than re-reading the entire set of slides, making the review process more efficient and targeted.
 
 
-
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 Goals for the Next Week:
 
 We have a quiz scheduled for next week, so I plan to study Chapter 3 in detail and review Chapters 1 and 2 to ensure I am well-prepared for the assessment.
