@@ -167,6 +167,8 @@ ________________________________________________________________________________
 
 
 Peer Interactions:
+
+
 This week, during a group project meeting for my problem solving course, my classmate, Parsa, pointed out that our original design for the app lacked security features for user data. Another peer, Farid, suggested implementing two-factor authentication, which hadn’t crossed my mind. Their input made me realize the importance of considering security early in development. The discussion sharpened my awareness of peer collaboration’s role in producing well-rounded solutions.
 
 
