@@ -206,7 +206,7 @@ ________________________________________________________________________________
 
 
 
-Learning Journal 2 
+Learning Journal 3
 Student Name: Amirmohammad Rezaeipour 
 Course: Project management
 Journal URL: https://github.com/ammiroo98/learningJournal.git
