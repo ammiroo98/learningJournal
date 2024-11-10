@@ -263,3 +263,48 @@ I've realized that to achieve my goals, I need to organize my time and life more
 Goals for the Next Week:
 As we move into the next phase of our project, I will be collaborating with my groupmates to complete another critical deliverable. This task is essential for ensuring that we stay on schedule and meet our project milestones. I’m looking forward to working together, as each of us brings unique skills and perspectives to the table. By effectively communicating and coordinating our efforts, I believe we can produce a high-quality outcome that reflects our collective hard work. I'm excited about the opportunity to learn from my teammates and contribute to the project's success.
 
+
+
+learning journal 4
+
+
+
+Key Concepts Learned:
+Chapter 8: Project Closure
+1.	Project Closure Activities: Involves finalizing project deliverables, ensuring all tasks are complete, and confirming that project goals have been met.
+2.	Source Code and Version Management: Ensuring the latest versions of all files are properly stored and documented.
+3.	Data Archiving: Filtering and archiving project metrics to retain essential data for future reference.
+4.	Lessons Learned: Reviewing archived data to understand successes and challenges, which is valuable for improving future projects.
+Chapter 9: Software Lifecycle Management 
+1.	Software Lifecycle Models: Covers models for software development, including the Waterfall model (linear approach) and Iterative Models like SCRUM and Extreme Programming that allow rework and flexibility.
+2.	Concurrent Engineering: Discusses parallel work on different software lifecycle stages to improve efficiency.
+3.	Work Products and Quality Gates: Each lifecycle stage has specific work products (outputs), and quality gates ensure each phase meets required standards before moving forward.
+4.	Comparison of Models: Highlights that the Waterfall model suits projects needing a stable backbone (e.g., ERP systems), while iterative models suit projects requiring adaptability to technological changes.
+
+
+
+
+Application in Real Projects:
+In my last project, we used SCRUM to develop a new mobile app, which allowed us to iterate quickly. At the end of each sprint, we had a working feature set, which helped us adapt to changing client requirements without massive rework. I was responsible for version management of the code, ensuring every update was documented and securely archived. When we wrapped up, we had a formal project closure session where we reviewed our metrics—like sprint velocity and defect rates—and archived these for future projects.
+In the closure meeting, we also discussed lessons learned. One big takeaway was the value of quality gates at each lifecycle stage, which caught potential issues early and saved us from last-minute fixes. By the end, I felt that managing each phase and reflecting on our performance gave us a better foundation for the next project.
+
+
+Peer Interactions:
+This week, our team wrapped up a mobile app project using the Waterfall model. Since we were working with a large corporate client, the project needed a solid backbone, so a linear approach was the best fit. I coordinated with Martin and Erfan to complete the quality gates for each phase, ensuring our requirements, design, and testing phases met standards before moving forward.
+During one of our discussions, Martin suggested that even though we were following Waterfall, we could incorporate lessons learned from our previous projects and keep an archive of the issues encountered and resolved. This insight helped us avoid some design pitfalls early on. Erfan, on the other hand, had great suggestions for data archiving in a way that made filtering through version histories easier. Together, we found that being proactive about metrics tracking made our project progress more transparent and manageable, something we all agreed to carry forward in our next projects
+
+
+Challenges Faced:
+This week, I encountered a few challenges with understanding the nuances of software lifecycle models. Specifically, I struggled to fully grasp when to apply the Waterfall model versus iterative models like SCRUM. While I understand the theory, real-life scenarios with rapidly changing requirements made me question which model would be best suited for such projects.
+I also found quality gates and data archiving a bit tricky. I could see their value in ensuring standards, but I wasn’t entirely clear on how to implement them consistently across different phases without slowing down progress. I plan to put extra effort into studying examples of quality gates and explore more on SCRUM. Additionally, I'll review any archived project data I can access to see how past teams used these methods effectively.
+
+Personal development activities:
+
+Recently, I added a regular workout routine to my schedule, which has been a game-changer for my productivity at work. I started with short morning workouts to energize myself before the workday, and it made a noticeable difference. I felt more focused and less fatigued, especially during long stretches of project work or meetings.
+One of the biggest challenges was building the habit, but I quickly realized that staying active gave me a mental boost, helping me tackle complex tasks with a clear mind. This extra energy and clarity have made me feel more capable and less stressed when managing multiple projects. Now, I’m not only sticking to my fitness goals but also seeing my professional performance improve in real-time.
+
+
+Goals for the Next Week:
+With the final exam and our project deadline approaching, I realized I needed a solid plan to stay on top of everything. First, I decided to map out a review schedule for the course content, breaking down each chapter and topic by day. My goal is to cover a set amount of material daily, with extra time for difficult concepts. 
+For the project, I created a checklist for final deliverables, prioritizing tasks and setting mini-deadlines to avoid last-minute scrambling.
+
